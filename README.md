@@ -9,3 +9,5 @@
 * Scripts are declarative not procedural.
 
 * The major purpose is to maintain desired state of the application.
+
+* It has an important feature know as __idempotence__ (No matter how many time you will run the script result will be same)
