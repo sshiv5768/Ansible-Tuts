@@ -1,4 +1,4 @@
-# Ansible: Configure Management
+# Ansible
 
 ## What is configuration management ?
 
